@@ -1,4 +1,4 @@
-1.9.8
-Починены нижние кнопки клавиатуры в Telegram-боте
+1.9.9
+Исправлен возврат со светлой/тёмной темы (поля ввода и галочки)
 https://raw.githubusercontent.com/baklajan875/Mp4-to-mp3/main/MP4ToMP3-update.zip
-sha256=b3fa79216965e02dd47b4041c600540e7e7d92795634bc0f4a1249f79349d005
+sha256=5c29fa652ff0b620df3aadb4e34b7b54afd653cbe7aabd30ed8f874fec9d1b98
