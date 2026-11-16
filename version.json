@@ -1,4 +1,4 @@
 1.9.10
-Поиск моделей в %LOCALAPPDATA%\MP4ToMP3\models и с двойной вложенностью
+Исправлено автообновление (без Access is denied) + поиск модели 1.8 ГБ
 https://raw.githubusercontent.com/baklajan875/Mp4-to-mp3/main/MP4ToMP3-update.zip
-sha256=30df89f0447f3ac301a0ba45e3be0973831b8405e26ed34dc0aaeaeecf553d0c
+sha256=56834dbb2a7e5cb6857ee307b0cb3492083b4b9e105430ece4ea80680883516b
