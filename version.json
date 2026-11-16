@@ -1,4 +1,4 @@
-1.9.9
-Исправлен возврат со светлой/тёмной темы (поля ввода и галочки)
+1.9.10
+Поиск моделей в %LOCALAPPDATA%\MP4ToMP3\models и с двойной вложенностью
 https://raw.githubusercontent.com/baklajan875/Mp4-to-mp3/main/MP4ToMP3-update.zip
-sha256=5c29fa652ff0b620df3aadb4e34b7b54afd653cbe7aabd30ed8f874fec9d1b98
+sha256=30df89f0447f3ac301a0ba45e3be0973831b8405e26ed34dc0aaeaeecf553d0c
