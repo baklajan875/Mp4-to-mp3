@@ -1,4 +1,4 @@
 1.9.11
-Исправлено полное закрытие программы по крестику (System.exit)
+Полностью проверенная сборка: закрытие по крестику, кнопки ТГ, тема, модель 1.8 ГБ, JSON
 https://raw.githubusercontent.com/baklajan875/Mp4-to-mp3/main/MP4ToMP3-update.zip
-sha256=fb7bdfc8de16ba65ec2eda41f99befd1b3c52808107c401bda35b21b7738829f
+sha256=025d01ba79e8db491b0419bdb518f26e2a4d21e52d4af5d0d9c4451023793d8a
