@@ -1,5 +1,5 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "jar": "https://raw.githubusercontent.com/baklajan875/Mp4-to-mp3/main/mp4-to-mp3.jar",
-  "notes": "Обновление кода программы"
+  "notes": "Починены нижние кнопки клавиатуры в Telegram-боте"
 }
