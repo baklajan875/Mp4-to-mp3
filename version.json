@@ -1,4 +1,4 @@
-1.9.10
-Исправлено автообновление (без Access is denied) + поиск модели 1.8 ГБ
+1.9.11
+Исправлено полное закрытие программы по крестику (System.exit)
 https://raw.githubusercontent.com/baklajan875/Mp4-to-mp3/main/MP4ToMP3-update.zip
-sha256=56834dbb2a7e5cb6857ee307b0cb3492083b4b9e105430ece4ea80680883516b
+sha256=fb7bdfc8de16ba65ec2eda41f99befd1b3c52808107c401bda35b21b7738829f
